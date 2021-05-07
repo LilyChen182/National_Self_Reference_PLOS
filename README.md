@@ -18,6 +18,7 @@ Introduction
 2. Step3_PLOS_refer.py
     This script can get the detailed information of each reference from XML files, and the detailed information 
     include title, first author, corresponding author, publised year, source, volume, etc.
+    
 3. Step4_PLOS_preprocess.py
     This script finish the preprocessing of several tables stored in MySQL DB, and the process includes:
     * marking  papers used in Table 'PLOS_191204_paper', MySQL（matched = 1）;
