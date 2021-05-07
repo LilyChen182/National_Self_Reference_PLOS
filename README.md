@@ -1,4 +1,4 @@
-# github-upload
+# National_Self_Reference_PLOS
 ==============================
 
 Introduction
